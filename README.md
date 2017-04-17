@@ -1,5 +1,5 @@
 # TubesProgweb
-Nama Kelompok : DNE Techno
+Nama Kelompok : DNI Techno
 Anggota Kelompok : 
 -Deden Nursyadid (6706154099)
 -Novian Nuraldi (6706154095)
